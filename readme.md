@@ -16,7 +16,7 @@ The dataset is gained from kaggle, uploaded by [drgfreeman](https://github.com/D
 
 ### Raw Image
 
-![image](rps-cv-images\scissors\0CSaM2vL2cWX6Cay.png)
+![image](https://github.com/mikepars/predicting-hand-sign-rps/blob/main/rps-cv-images/scissors/0CSaM2vL2cWX6Cay.png?raw=true)
 
 ### Transformed Image
 
